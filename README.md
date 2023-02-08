@@ -25,7 +25,9 @@ To use this stylesheet, copy the above to a file called `xgterm.mplstyle` in you
     `plt.style.use("xgterm")`
     
 in your code the apply the global style. The stylesheet may also be specified
-as an explicit file path or URL, see the notebook for examples.
+as a URL requiring no installation, for example
+
+     `plt.style.use('https://tinyurl.com/xgtermstyle')`
 
 For more information see the [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/introductory/customizing.html).
 
