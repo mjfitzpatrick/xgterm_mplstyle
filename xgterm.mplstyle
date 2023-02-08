@@ -1,0 +1,16 @@
+# Save this file as:
+#
+#        $HOME/.config/matplotlib/stylelib/xgterm.mplstyle
+
+axes.facecolor: black
+axes.edgecolor: cyan
+axes.labelcolor: lime
+axes.titlecolor: lime
+axes.prop_cycle: cycler('color', ['white','red','green','blue','cyan','yellow','magenta','purple','darkslategray'])
+figure.edgecolor:darkslategrey
+figure.facecolor:darkslategrey
+xtick.color: cyan
+xtick.labelcolor: yellow
+ytick.color: cyan
+ytick.labelcolor: yellow
+legend.facecolor: black
